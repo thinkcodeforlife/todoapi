@@ -1,0 +1,11 @@
+__pycache__/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.log
+.env
+*.sqlite3
+*.pyc
+*.db
+
